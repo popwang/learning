@@ -9,4 +9,8 @@ this is third branc
 remote modify
 >>>>>>> 5b5a5a38e5d9bf51d6ab1bf17bf035f89425cd17
 
+<<<<<<< HEAD
 localhost modify
+=======
+remote modify second
+>>>>>>> tmp
