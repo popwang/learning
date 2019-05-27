@@ -1,4 +1,4 @@
-this content is for other!
+﻿this content is for other!
 base other 
 <<<<<<< HEAD
 this is third branck!
@@ -17,5 +17,5 @@ remote modify second
 
 4月30号新增内容
 
-
+5月27号第一次增加内容
 
