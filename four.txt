@@ -2,3 +2,5 @@ four first file
 
 这里的工作做了一半
  继续做剩下的一半工作。
+
+这次测试fetch。
