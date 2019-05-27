@@ -1,4 +1,4 @@
-four first file
+﻿four first file
 
 这里的工作做了一半
  继续做剩下的一半工作。
@@ -6,3 +6,5 @@ four first file
 这次测试fetch。
 
 别人的提交。
+
+我修改了内容。
